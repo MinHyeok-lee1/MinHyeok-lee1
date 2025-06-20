@@ -39,26 +39,36 @@ and place great importance on **structured documentation** and **code clarity**.
 
 #### Languages
 
-![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash)
+![C](https://img.shields.io/badge/-C-00599C?style=flat\&logo=c)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat\&logo=c%2B%2B)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat\&logo=python)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat\&logo=gnu-bash)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat\&logo=typescript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat\&logo=javascript)
 
 #### MCU / Frameworks
 
-![STM32](https://img.shields.io/badge/-STM32-03234B?style=flat&logo=stmicroelectronics)
-![FreeRTOS](https://img.shields.io/badge/-FreeRTOS-505050?style=flat&logo=freertos)
+![STM32](https://img.shields.io/badge/-STM32-03234B?style=flat\&logo=stmicroelectronics)
+![FreeRTOS](https://img.shields.io/badge/-FreeRTOS-505050?style=flat\&logo=freertos)
 ![RP2040](https://img.shields.io/badge/-RP2040-cc0033?style=flat)
-![ROS2](https://img.shields.io/badge/-ROS2-22314E?style=flat&logo=ros)
+![ROS2](https://img.shields.io/badge/-ROS2-22314E?style=flat\&logo=ros)
+
+#### Web / Backend
+
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat\&logo=nextdotjs)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat\&logo=nestjs)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat\&logo=mongodb)
+![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat\&logo=nginx)
 
 #### Dev Tools
 
-![PlatformIO](https://img.shields.io/badge/-PlatformIO-ff6600?style=flat&logo=platformio)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)
-![AWS IoT](https://img.shields.io/badge/-AWS_IoT-FF9900?style=flat&logo=amazon-aws)
-![KVS](https://img.shields.io/badge/-Kinesis_Video_Stream-FF9900?style=flat&logo=amazon-aws)
+![PlatformIO](https://img.shields.io/badge/-PlatformIO-ff6600?style=flat\&logo=platformio)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat\&logo=visual-studio-code)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat\&logo=git)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat\&logo=docker)
+![AWS IoT](https://img.shields.io/badge/-AWS_IoT-FF9900?style=flat\&logo=amazon-aws)
+![KVS](https://img.shields.io/badge/-Kinesis_Video_Stream-FF9900?style=flat\&logo=amazon-aws)
+![CI/CD](https://img.shields.io/badge/-CI/CD-0A0A0A?style=flat\&logo=githubactions)
 
 ---
 
