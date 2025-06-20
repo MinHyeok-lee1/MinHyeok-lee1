@@ -110,7 +110,7 @@ and place great importance on **structured documentation** and **code clarity**.
 [![Gmail](https://img.shields.io/badge/-minhyeok.lee1@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:minhyeok.lee1@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
 [![Blog](https://img.shields.io/badge/-TIL-black?style=flat&logo=github)](https://kfdd6630.tistory.com/)
-[![TIL](https://img.shields.io/badge/-Blog-black?style=flat&logo=blog)](https://github.com/MinHyeok-lee1/TIL)
+[![TIL](https://img.shields.io/badge/-Blog-tomato?style=flat&logo=blog)](https://github.com/MinHyeok-lee1/TIL)
 
 ---
 
