@@ -35,40 +35,52 @@ and place great importance on **structured documentation** and **code clarity**.
 
 ---
 
+좋습니다! 요청하신 다섯 가지 기술을 기존 구성에 자연스럽게 녹여 반영한 `Tech Stack`은 아래와 같습니다:
+
+---
+
 ### 🔧 Tech Stack
 
-#### Languages
+#### 💻 Languages
 
 ![C](https://img.shields.io/badge/-C-00599C?style=flat\&logo=c)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat\&logo=c%2B%2B)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat\&logo=python)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat\&logo=gnu-bash)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat\&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat\&logo=javascript)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat\&logo=dart)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat\&logo=gnu-bash)
 
-#### MCU / Frameworks
-
-![STM32](https://img.shields.io/badge/-STM32-03234B?style=flat\&logo=stmicroelectronics)
-![FreeRTOS](https://img.shields.io/badge/-FreeRTOS-505050?style=flat\&logo=freertos)
-![RP2040](https://img.shields.io/badge/-RP2040-cc0033?style=flat)
-![ROS2](https://img.shields.io/badge/-ROS2-22314E?style=flat\&logo=ros)
-
-#### Web / Backend
+#### 🌐 Web & Mobile Frameworks
 
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat\&logo=nextdotjs)
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat\&logo=nestjs)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat\&logo=flutter)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat\&logo=graphql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat\&logo=mongodb)
 ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat\&logo=nginx)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat\&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat\&logo=css3)
 
-#### Dev Tools
+#### 🔌 Embedded / Robotics
+
+![STM32](https://img.shields.io/badge/-STM32-03234B?style=flat\&logo=stmicroelectronics)
+![RP2040](https://img.shields.io/badge/-RP2040-cc0033?style=flat)
+![FreeRTOS](https://img.shields.io/badge/-FreeRTOS-505050?style=flat\&logo=freertos)
+![ROS2](https://img.shields.io/badge/-ROS2-22314E?style=flat\&logo=ros)
+
+#### 🛠️ DevOps / Tools
 
 ![PlatformIO](https://img.shields.io/badge/-PlatformIO-ff6600?style=flat\&logo=platformio)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat\&logo=visual-studio-code)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat\&logo=git)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat\&logo=docker)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat\&logo=git)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat\&logo=githubactions)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat\&logo=visual-studio-code)
+
+#### ☁️ Cloud / Streaming
+
 ![AWS IoT](https://img.shields.io/badge/-AWS_IoT-FF9900?style=flat\&logo=amazon-aws)
-![KVS](https://img.shields.io/badge/-Kinesis_Video_Stream-FF9900?style=flat\&logo=amazon-aws)
-![CI/CD](https://img.shields.io/badge/-CI/CD-0A0A0A?style=flat\&logo=githubactions)
+![Amazon KVS](https://img.shields.io/badge/-Kinesis_Video_Stream-FF9900?style=flat\&logo=amazon-aws)
 
 ---
 
