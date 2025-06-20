@@ -1,4 +1,4 @@
-# 👋 Hello, my name is MinHyeok Lee
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, my name is MinHyeok Lee
 
 I am a 🤖 Robotics Engineer and Embedded Firmware Developer  
 with strong expertise in **C/C++**, **STM32**, **FreeRTOS**, and **ROS2**.  
