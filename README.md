@@ -64,6 +64,7 @@ and place great importance on **structured documentation** and **code clarity**.
 ![RP2040](https://img.shields.io/badge/-RP2040-cc0033?style=flat)
 ![FreeRTOS](https://img.shields.io/badge/-FreeRTOS-505050?style=flat\&logo=freertos)
 ![ROS2](https://img.shields.io/badge/-ROS2-22314E?style=flat\&logo=ros)
+![Arduino](https://img.shields.io/badge/-Arduino-009639?style=flat)
 
 #### 🛠️ DevOps / Tools
 
