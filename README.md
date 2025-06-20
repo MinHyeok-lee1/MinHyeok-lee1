@@ -35,10 +35,6 @@ and place great importance on **structured documentation** and **code clarity**.
 
 ---
 
-좋습니다! 요청하신 다섯 가지 기술을 기존 구성에 자연스럽게 녹여 반영한 `Tech Stack`은 아래와 같습니다:
-
----
-
 ### 🔧 Tech Stack
 
 #### 💻 Languages
