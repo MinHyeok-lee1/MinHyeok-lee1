@@ -1,10 +1,4 @@
-<h1 align="center"> 👋 Hello, my name is MinHyeok Lee</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Embedded+Systems+%7C+STM32;Control+Algorithm+Design;Robot+Firmware+Developer+💻" alt="Typing SVG" />
-</p>
-
----
+# 👋 Hello, my name is MinHyeok Lee
 
 I am a 🤖 Robotics Engineer and Embedded Firmware Developer  
 with strong expertise in **C/C++**, **STM32**, **FreeRTOS**, and **ROS2**.  
@@ -15,21 +9,29 @@ and place great importance on **structured documentation** and **code clarity**.
 
 📌 **Welcome to my page!** On my GitHub, you'll find:
 
-- 🚀 **Projects** created and maintained by me   
-- 📚 **Tutorials & Notes** on embedded systems, robotics, and full-stack development  
-- 🛠️ **TILs** and documentation-focused repositories for continuous learning
-- 🔐 **Security writeups** and any vulnerabilities, I’ve researched or reported 
+- **Projects** created and maintained by me
+- **Tutorials & Notes** on embedded systems, robotics, and full-stack development
+- **TILs** and documentation-focused repositories for continuous learning
+- **Security writeups** and any vulnerabilities, I’ve researched or reported
+
+---
+
+<br />
+
+<p align="center">
+  <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Embedded+Systems+%7C+STM32;Control+Algorithm+Design;Robot+Firmware+Developer+💻" alt="Typing SVG" />
+</p>
 
 ---
 
 ### 🧩 About Me
 
-- 🎓 B.S. Robotics Engineering & Embedded Software (Hannam Univ.)
-- ⚙️ Team Lead, SW Team @ **The Robotics Co., Ltd** (2023.08 ~)
-- 🔧 4+ years in embedded firmware & autonomous mobile robotics (AMR)
-- 🧠 Focused on AMR, sensor fusion, and real-time control
-- 🧪 Reverse-engineering & system-level debugging enthusiast
-- 🏅 Certifications: Information Processing Engineer, Linux Master Lv2
+- B.S. Robotics Engineering & Embedded Software (Hannam Univ.)
+- Team Lead, SW Team @ **The Robotics Co., Ltd** (2023.08 ~)
+- 4+ years in embedded firmware & autonomous mobile robotics (AMR)
+- Focused on AMR, sensor fusion, and real-time control
+- Reverse-engineering & system-level debugging enthusiast
+- Certifications: Information Processing Engineer, Linux Master Lv2
 
 ---
 
