@@ -1,7 +1,7 @@
 <h1 align="center">🤖 MinHyeok Lee | Robotics Engineer</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Embedded+Systems+%7C+STM32+%7C+CAN+Protocol;Control+Algorithm+Design;Robot+Firmware+Developer+🧠+💻" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Embedded+Systems+%7C+STM32;Control+Algorithm+Design;Robot+Firmware+Developer+🧠+💻" alt="Typing SVG" />
 </p>
 
 ---
