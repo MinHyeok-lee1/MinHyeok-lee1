@@ -1,4 +1,4 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, my name is MinHyeok Lee
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm MinHyeok Lee
 
 I am a 🤖 Robotics Engineer and Embedded Firmware Developer  
 with strong expertise in **C/C++**, **STM32**, **FreeRTOS**, and **ROS2**.  
@@ -39,45 +39,45 @@ and place great importance on **structured documentation** and **code clarity**.
 
 #### 💻 Languages
 
-![C](https://img.shields.io/badge/-C-00599C?style=flat\&logo=c)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat\&logo=c%2B%2B)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat\&logo=python)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat\&logo=typescript)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat\&logo=javascript)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat\&logo=dart)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat\&logo=gnu-bash)
+![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash)
 
 #### 🌐 Web & Mobile Frameworks
 
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat\&logo=nextdotjs)
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat\&logo=nestjs)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat\&logo=flutter)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat\&logo=graphql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat\&logo=mongodb)
-![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat\&logo=nginx)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat\&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat\&logo=css3)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)
+![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
 
 #### 🔌 Embedded / Robotics
 
-![STM32](https://img.shields.io/badge/-STM32-03234B?style=flat\&logo=stmicroelectronics)
+![STM32](https://img.shields.io/badge/-STM32-03234B?style=flat&logo=stmicroelectronics)
 ![RP2040](https://img.shields.io/badge/-RP2040-cc0033?style=flat)
-![FreeRTOS](https://img.shields.io/badge/-FreeRTOS-505050?style=flat\&logo=freertos)
-![ROS2](https://img.shields.io/badge/-ROS2-22314E?style=flat\&logo=ros)
+![FreeRTOS](https://img.shields.io/badge/-FreeRTOS-505050?style=flat&logo=freertos)
+![ROS2](https://img.shields.io/badge/-ROS2-22314E?style=flat&logo=ros)
 ![Arduino](https://img.shields.io/badge/-Arduino-009639?style=flat)
 
 #### 🛠️ DevOps / Tools
 
-![PlatformIO](https://img.shields.io/badge/-PlatformIO-ff6600?style=flat\&logo=platformio)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat\&logo=docker)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat\&logo=git)
-![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat\&logo=githubactions)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat\&logo=visual-studio-code)
+![PlatformIO](https://img.shields.io/badge/-PlatformIO-ff6600?style=flat&logo=platformio)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat&logo=githubactions)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code)
 
 #### ☁️ Cloud / Streaming
 
-![AWS IoT](https://img.shields.io/badge/-AWS_IoT-FF9900?style=flat\&logo=amazon-aws)
-![Amazon KVS](https://img.shields.io/badge/-Kinesis_Video_Stream-FF9900?style=flat\&logo=amazon-aws)
+![AWS IoT](https://img.shields.io/badge/-AWS_IoT-FF9900?style=flat&logo=amazon-aws)
+![Amazon KVS](https://img.shields.io/badge/-Kinesis_Video_Stream-FF9900?style=flat&logo=amazon-aws)
 
 ---
 
@@ -109,9 +109,9 @@ and place great importance on **structured documentation** and **code clarity**.
 ### ☎️ Contact
 
 [![Gmail](https://img.shields.io/badge/-minhyeok.lee1@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:minhyeok.lee1@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Blog](https://img.shields.io/badge/-TIL-black?style=flat&logo=github)](https://kfdd6630.tistory.com/)
-[![TIL](https://img.shields.io/badge/-Blog-tomato?style=flat&logo=blog)](https://github.com/MinHyeok-lee1/TIL)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/minhyeok-lee-891311370/)
+[![TIL](https://img.shields.io/badge/-TIL-black?style=flat&logo=github)](https://github.com/MinHyeok-lee1/TIL)
+[![Blog](https://img.shields.io/badge/-Blog-tomato?style=flat&logo=blog)](https://kfdd6630.tistory.com/)
 
 ---
 
