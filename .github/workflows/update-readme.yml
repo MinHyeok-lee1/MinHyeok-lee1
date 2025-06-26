@@ -31,9 +31,11 @@ jobs:
 
           def get_recent_tils(root_dir="TIL", max_items=5):
               tils = []
+              print("🔍 Scanning TIL directory...")
               for dirpath, _, filenames in os.walk(root_dir):
                   for filename in filenames:
                       if filename.endswith(".md"):
+                          print(f"📄 Found file: {filename} in {dirpath}")
                           relative_path = os.path.relpath(dirpath, root_dir)
                           parts = relative_path.split(os.sep)
                           if len(parts) >= 2:
@@ -41,12 +43,16 @@ jobs:
                               day = filename[:2]
                               try:
                                   date = datetime.date(int(year), int(month), int(day))
-                                  with open(os.path.join(dirpath, filename), encoding="utf-8") as f:
+                                  full_path = os.path.join(dirpath, filename)
+                                  with open(full_path, encoding="utf-8") as f:
                                       title = next((l.strip("# \n") for l in f if l.strip().startswith("#")), filename)
                                   link = (Path(dirpath) / filename).as_posix()
+                                  print(f"✅ Added: {title} ({link})")
                                   tils.append((date, title, link))
                               except Exception as e:
-                                  print(f"❌ Skip: {filename} ({e})")
+                                  print(f"❌ Skip: {filename} - {e}")
+                          else:
+                              print(f"⚠️ Path skipped: {dirpath} - not enough depth")
               tils.sort(reverse=True)
               return tils[:max_items]
 
@@ -65,14 +71,18 @@ jobs:
               return text.split(start)[0] + start + "\n" + content + "\n" + end + text.split(end)[1]
 
           readme = open("README.md", encoding="utf-8").read()
+          print("📘 Original README loaded.")
+
           til_md = "\n".join([f"- [{t}]({l})" for _, t, l in get_recent_tils()]) or "(최근 TIL이 없습니다)"
           proj_md = "\n".join([f"- {p}" for p in get_public_projects()]) or "(표시할 프로젝트가 없습니다)"
 
+          print("🧩 Inserting TIL and Project data...")
           readme = insert_between(readme, "<!-- TIL-START -->", "<!-- TIL-END -->", til_md)
           readme = insert_between(readme, "<!-- PROJ-START -->", "<!-- PROJ-END -->", proj_md)
 
           with open("README.md", "w", encoding="utf-8") as f:
               f.write(readme)
+          print("✅ README updated.")
           EOF
 
       - name: Commit and push if changed
