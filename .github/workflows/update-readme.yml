@@ -18,6 +18,9 @@ jobs:
         with:
           python-version: 3.11
 
+      - name: Install Python dependencies
+        run: pip install GitPython requests
+
       - name: Generate updated README
         run: |
           python3 <<EOF
