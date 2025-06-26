@@ -2,7 +2,7 @@ name: 🛠️ Update README with TIL & Projects
 
 on:
   schedule:
-    - cron: "0 * * * *" # 며스스간 실행
+    - cron: "0 * * * *"
   workflow_dispatch:
 
 jobs:
@@ -22,6 +22,8 @@ jobs:
         run: pip install GitPython requests
 
       - name: Generate updated README
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           python3 <<EOF
           import os, datetime, requests
@@ -31,19 +33,19 @@ jobs:
               for dirpath, _, filenames in os.walk(root_dir):
                   for filename in filenames:
                       if filename.endswith(".md"):
-                          parts = os.path.normpath(dirpath).split(os.sep)
-                          if len(parts) >= 3:
-                              year, month = parts[1], parts[2]
+                          relative_path = os.path.relpath(dirpath, root_dir)
+                          parts = relative_path.split(os.sep)
+                          if len(parts) >= 2:
+                              year, month = parts[0], parts[1]
+                              day = filename[:2]
                               try:
-                                  day = filename.split("-")[0]  # 파일명의 보호된 일 조회
                                   date = datetime.date(int(year), int(month), int(day))
                                   with open(os.path.join(dirpath, filename), encoding="utf-8") as f:
                                       title = next((l.strip("# \n") for l in f if l.strip().startswith("#")), filename)
                                   link = os.path.join(dirpath, filename).replace("\\", "/")
                                   tils.append((date, title, link))
                               except Exception as e:
-                                  print(f"⚠️ Failed parsing {filename}: {e}")
-                                  continue
+                                  print(f"❌ Skip: {filename} ({e})")
               tils.sort(reverse=True)
               return tils[:max_items]
 
@@ -71,8 +73,6 @@ jobs:
           with open("README.md", "w", encoding="utf-8") as f:
               f.write(readme)
           EOF
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit and push if changed
         run: |
