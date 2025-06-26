@@ -19,18 +19,14 @@ and place great importance on **structured documentation** and **code clarity**.
 ## 📖 Recent TILs
 
 <!-- TIL-START -->
-
-(최근 TIL이 자동으로 채워집니다)
-
+(최근 TIL이 없습니다)
 <!-- TIL-END -->
 
 ## 🚀 Major Projects
 
 <!-- PROJ-START -->
-
+- [University-projects](https://github.com/MinHyeok-lee1/University-projects)
 - [Personal-projects](https://github.com/MinHyeok-lee1/Personal-projects)
-- [MK-projects](https://github.com/MinHyeok-lee1/MK-projects)
-- [TheRobotics-projects](https://github.com/MinHyeok-lee1/TheRobotics-projects)
 <!-- PROJ-END -->
 
 ---
