@@ -18,12 +18,7 @@ jobs:
         with:
           python-version: 3.11
 
-      - name: Install Python dependencies
-        run: pip install GitPython requests
-
-      - name: Fetch public repositories via GitHub API
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Generate updated README
         run: |
           python3 <<EOF
           import os, datetime, requests
@@ -55,7 +50,7 @@ jobs:
               repos = r.json()
               result = []
               for repo in repos:
-                  if not repo.get("private") and "projects" in repo["name"].lower():
+                  if not repo["private"] and any(tag in repo["name"].lower() for tag in ["projects"]):
                       result.append(f"[{repo['name']}]({repo['html_url']})")
               return result[:3]
 
@@ -72,6 +67,8 @@ jobs:
           with open("README.md", "w", encoding="utf-8") as f:
               f.write(readme)
           EOF
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit and push if changed
         run: |
