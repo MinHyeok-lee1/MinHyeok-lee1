@@ -27,6 +27,7 @@ and place great importance on **structured documentation** and **code clarity**.
 ## 🚀 Major Projects
 
 <!-- PROJ-START -->
+
 - [Personal-projects](https://github.com/MinHyeok-lee1/Personal-projects)
 - [MK-projects](https://github.com/MinHyeok-lee1/MK-projects)
 - [TheRobotics-projects](https://github.com/MinHyeok-lee1/TheRobotics-projects)
@@ -120,7 +121,7 @@ and place great importance on **structured documentation** and **code clarity**.
 
 ### 📊 GitHub Stats
 
-<p align="center"> <a href="https://github.com/anuraghazra/github-readme-stats"> <img align="top" src="https://github-readme-stats-tau-nine-63.vercel.app/api?username=MinHyeok-lee1&show_icons=true&theme=radical&count_private=true&hide_border=true&custom_title=GitHub%20Stats" width="48%" height="180px"/> </a> <a href="https://github.com/anuraghazra/github-readme-stats#top-languages-card"> <img align="top" src="https://github-readme-stats-tau-nine-63.vercel.app/api/top-langs/?username=MinHyeok-lee1&layout=compact&theme=radical&hide_border=true&langs_count=8&custom_title=Most%20Used%20Languages&hide=jupyter%20notebook" width="48%" height="180px"/> </a> </p>
+<p align="center"> <a href="https://github.com/anuraghazra/github-readme-stats"> <img align="top" src="https://github-readme-stats-tau-nine-63.vercel.app/api?username=MinHyeok-lee1&rank_icon=github&theme=radical&count_private=true&hide_border=true&custom_title=GitHub%20Stats" width="48%" height="180px"/> </a> <a href="https://github.com/anuraghazra/github-readme-stats#top-languages-card"> <img align="top" src="https://github-readme-stats-tau-nine-63.vercel.app/api/top-langs/?username=MinHyeok-lee1&layout=compact&theme=radical&hide_border=true&langs_count=8&custom_title=Most%20Used%20Languages&hide=jupyter%20notebook" width="48%" height="180px"/> </a> </p>
 
 ---
 
