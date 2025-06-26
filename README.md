@@ -27,9 +27,9 @@ and place great importance on **structured documentation** and **code clarity**.
 ## 🚀 Major Projects
 
 <!-- PROJ-START -->
-
-(주요 프로젝트가 자동으로 채워집니다)
-
+- [Personal-projects](https://github.com/MinHyeok-lee1/Personal-projects)
+- [MK-projects](https://github.com/MinHyeok-lee1/MK-projects)
+- [TheRobotics-projects](https://github.com/MinHyeok-lee1/TheRobotics-projects)
 <!-- PROJ-END -->
 
 ---
