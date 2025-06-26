@@ -2,7 +2,7 @@ name: 🛠️ Update README with TIL & Projects
 
 on:
   schedule:
-    - cron: "0 * * * *"
+    - cron: "0 * * * *" # 며스스간 실행
   workflow_dispatch:
 
 jobs:
@@ -34,14 +34,15 @@ jobs:
                           parts = os.path.normpath(dirpath).split(os.sep)
                           if len(parts) >= 3:
                               year, month = parts[1], parts[2]
-                              day = filename[:2]
                               try:
+                                  day = filename.split("-")[0]  # 파일명의 보호된 일 조회
                                   date = datetime.date(int(year), int(month), int(day))
                                   with open(os.path.join(dirpath, filename), encoding="utf-8") as f:
                                       title = next((l.strip("# \n") for l in f if l.strip().startswith("#")), filename)
-                                  link = os.path.join(dirpath, filename).replace("\\\\", "/")
+                                  link = os.path.join(dirpath, filename).replace("\\", "/")
                                   tils.append((date, title, link))
-                              except:
+                              except Exception as e:
+                                  print(f"⚠️ Failed parsing {filename}: {e}")
                                   continue
               tils.sort(reverse=True)
               return tils[:max_items]
