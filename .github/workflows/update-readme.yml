@@ -38,7 +38,7 @@ jobs:
                                   date = datetime.date(int(year), int(month), int(day))
                                   with open(os.path.join(dirpath, filename), encoding="utf-8") as f:
                                       title = next((l.strip("# \n") for l in f if l.strip().startswith("#")), filename)
-                                  link = os.path.join(dirpath, filename).replace("\\", "/")
+                                  link = os.path.join(dirpath, filename).replace("\\\\", "/")
                                   tils.append((date, title, link))
                               except:
                                   continue
@@ -52,7 +52,7 @@ jobs:
               repos = r.json()
               result = []
               for repo in repos:
-                  if not repo["private"] and any(tag in repo["name"].lower() for tag in ["projects"]):
+                  if not repo.get("private") and "projects" in repo["name"].lower():
                       result.append(f"[{repo['name']}]({repo['html_url']})")
               return result[:3]
 
