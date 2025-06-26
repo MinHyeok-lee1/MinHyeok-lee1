@@ -16,6 +16,24 @@ and place great importance on **structured documentation** and **code clarity**.
 
 ---
 
+## 📖 Recent TILs
+
+<!-- TIL-START -->
+
+(최근 TIL이 자동으로 채워집니다)
+
+<!-- TIL-END -->
+
+## 🚀 Major Projects
+
+<!-- PROJ-START -->
+
+(주요 프로젝트가 자동으로 채워집니다)
+
+<!-- PROJ-END -->
+
+---
+
 <br />
 
 <p align="center">

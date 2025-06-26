@@ -1,0 +1,72 @@
+name: 🛠️ Update README with TIL & Projects
+
+on:
+  schedule:
+    - cron: "0 * * * *" # 매시간 실행
+  workflow_dispatch: # 수동 실행도 가능
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python (for date formatting)
+        uses: actions/setup-python@v4
+        with:
+          python-version: 3.11
+
+      - name: Install Python dependencies
+        run: pip install GitPython
+
+      - name: Generate updated README
+        run: |
+          python3 <<EOF
+          import os
+          import datetime
+          from git import Repo
+
+          repo = Repo(".")
+          til_list = []
+          project_list = [
+              "[Personal-projects](https://github.com/MinHyeok-lee1/Personal-projects)",
+              "[MK-projects](https://github.com/MinHyeok-lee1/MK-projects)",
+              "[TheRobotics-projects](https://github.com/MinHyeok-lee1/TheRobotics-projects)"
+          ]
+
+          # 최근 TIL 커밋 로그 파싱 (폴더명 TIL 기준)
+          commits = list(repo.iter_commits("main", paths="TIL", max_count=5))
+          for c in commits:
+              date = datetime.datetime.fromtimestamp(c.committed_date).strftime("%Y-%m-%d")
+              msg = c.message.strip().split("\n")[0]
+              til_list.append(f"- {msg} ({date})")
+
+          # 기존 README 불러오기
+          with open("README.md", "r", encoding="utf-8") as f:
+              readme = f.read()
+
+          # 자동 삽입 영역 구성
+          def insert_between_markers(start_marker, end_marker, new_content):
+              before = readme.split(start_marker)[0]
+              after = readme.split(end_marker)[1]
+              return f"{before}{start_marker}\n{new_content}\n{end_marker}{after}"
+
+          til_block = "\n".join(til_list)
+          proj_block = "\n".join(f"- {p}" for p in project_list)
+
+          updated = insert_between_markers("<!-- TIL-START -->", "<!-- TIL-END -->", til_block)
+          updated = insert_between_markers("<!-- PROJ-START -->", "<!-- PROJ-END -->", proj_block)
+
+          with open("README.md", "w", encoding="utf-8") as f:
+              f.write(updated)
+          EOF
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --cached --quiet || git commit -m "📝 update: README with latest TIL & projects"
+          git push
