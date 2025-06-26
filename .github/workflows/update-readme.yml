@@ -47,7 +47,8 @@ jobs:
                                   date = datetime.date(int(year), int(month), int(day))
                                   with open(os.path.join(dirpath, filename), encoding="utf-8") as f:
                                       title = next((l.strip("# \n") for l in f if l.strip().startswith("#")), filename)
-                                  link = (Path(dirpath) / filename).as_posix()
+                                  rel_path = Path(dirpath).relative_to(root_dir) / filename
+                                  link = f"https://github.com/MinHyeok-lee1/TIL/blob/main/{rel_path.as_posix()}"
                                   tils.append((date, title, link))
                               except Exception as e:
                                   print(f"❌ Skip: {filename} ({e})")
