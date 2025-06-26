@@ -27,6 +27,7 @@ jobs:
         run: |
           python3 <<EOF
           import os, datetime, requests
+          from pathlib import Path
 
           def get_recent_tils(root_dir="TIL", max_items=5):
               tils = []
@@ -42,7 +43,7 @@ jobs:
                                   date = datetime.date(int(year), int(month), int(day))
                                   with open(os.path.join(dirpath, filename), encoding="utf-8") as f:
                                       title = next((l.strip("# \n") for l in f if l.strip().startswith("#")), filename)
-                                  link = os.path.join(dirpath, filename).replace("\\", "/")
+                                  link = (Path(dirpath) / filename).as_posix()
                                   tils.append((date, title, link))
                               except Exception as e:
                                   print(f"❌ Skip: {filename} ({e})")
