@@ -19,9 +19,9 @@ and place great importance on **structured documentation** and **code clarity**.
 ## 📖 Recent TILs
 
 <!-- TIL-START -->
-- [Git test](TIL/2025/06/26-git-test.md)
-- [STM32 test](TIL/2025/06/25-stm32-test.md)
-- [Web test](TIL/2025/06/24-web-test.md)
+- [Git test](https://github.com/MinHyeok-lee1/TIL/blob/main/2025/06/26-git-test.md)
+- [STM32 test](https://github.com/MinHyeok-lee1/TIL/blob/main/2025/06/25-stm32-test.md)
+- [Web test](https://github.com/MinHyeok-lee1/TIL/blob/main/2025/06/24-web-test.md)
 <!-- TIL-END -->
 
 ## 🚀 Major Projects
