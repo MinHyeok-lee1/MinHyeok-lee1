@@ -19,7 +19,7 @@ and place great importance on **structured documentation** and **code clarity**.
 ## 📖 Recent TILs
 
 <!-- TIL-START -->
-- [🧭 github.com/username, 왜 정리해야 할까?](https://github.com/MinHyeok-lee1/TIL/blob/main/2025/07/02-User-name-repo.md)
+- [🧭 github.com/username, 왜 정리해야 할까?](https://github.com/MinHyeok-lee1/TIL/blob/main/2025/07/02-Username-repository.md)
 - [TIL](https://github.com/MinHyeok-lee1/TIL/blob/main/2025/07/01-TIL.md)
 - [Git test](https://github.com/MinHyeok-lee1/TIL/blob/main/2025/06/26-git-test.md)
 - [STM32 test](https://github.com/MinHyeok-lee1/TIL/blob/main/2025/06/25-stm32-test.md)
