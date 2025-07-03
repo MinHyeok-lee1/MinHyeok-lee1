@@ -19,8 +19,8 @@ and place great importance on **structured documentation** and **code clarity**.
 ## 📖 Recent TILs
 
 <!-- TIL-START -->
-- [Guthub Template](https://github.com/MinHyeok-lee1/TIL/blob/main/2025/07/03-Template.md)
-- [github.com/username, 왜 정리해야 할까?](https://github.com/MinHyeok-lee1/TIL/blob/main/2025/07/02-UsernameRepository.md)
+- [GitHub Template](https://github.com/MinHyeok-lee1/TIL/blob/main/2025/07/03-Template.md)
+- [Username Repository](https://github.com/MinHyeok-lee1/TIL/blob/main/2025/07/02-UsernameRepository.md)
 - [TIL](https://github.com/MinHyeok-lee1/TIL/blob/main/2025/07/01-TIL.md)
 <!-- TIL-END -->
 
