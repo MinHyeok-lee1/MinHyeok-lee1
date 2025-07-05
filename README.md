@@ -20,7 +20,6 @@ On my GitHub you’ll find:
 ## 📖 Recent TILs
 
 <!-- TIL-START -->
-
 - [프록시(Proxy)](https://github.com/MinHyeok-lee1/TIL/blob/main/2025/07/05-proxy.md)
 - [GitHub Actions](https://github.com/MinHyeok-lee1/TIL/blob/main/2025/07/04-GitHub-Actions.md)
 - [GitHub Template](https://github.com/MinHyeok-lee1/TIL/blob/main/2025/07/03-Template.md)
@@ -33,7 +32,6 @@ On my GitHub you’ll find:
 ## 🚀 Major Projects
 
 <!-- PROJ-START -->
-
 - [University-projects](https://github.com/MinHyeok-lee1/University-projects)
 - [Personal-projects](https://github.com/MinHyeok-lee1/Personal-projects)
 <!-- PROJ-END -->
