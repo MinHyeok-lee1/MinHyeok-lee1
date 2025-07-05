@@ -19,6 +19,7 @@ and place great importance on **structured documentation** and **code clarity**.
 ## 📖 Recent TILs
 
 <!-- TIL-START -->
+- [프록시(Proxy)](https://github.com/MinHyeok-lee1/TIL/blob/main/2025/07/05-proxy.md)
 - [GitHub Actions](https://github.com/MinHyeok-lee1/TIL/blob/main/2025/07/04-GitHub-Actions.md)
 - [GitHub Template](https://github.com/MinHyeok-lee1/TIL/blob/main/2025/07/03-Template.md)
 - [Username Repository](https://github.com/MinHyeok-lee1/TIL/blob/main/2025/07/02-UsernameRepository.md)
