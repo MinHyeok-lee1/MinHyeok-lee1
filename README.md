@@ -20,11 +20,11 @@ On my GitHub you’ll find:
 ## 📖 Recent TILs
 
 <!-- TIL-START -->
+- [bash에서 ssh-agent, ssh-add: 왜 source로 실행해야 할까?](https://github.com/MinHyeok-lee1/TIL/blob/main/2025/07/06-issue-bash-ssh.md)
 - [프록시(Proxy)](https://github.com/MinHyeok-lee1/TIL/blob/main/2025/07/05-proxy.md)
 - [GitHub Actions](https://github.com/MinHyeok-lee1/TIL/blob/main/2025/07/04-GitHub-Actions.md)
 - [GitHub Template](https://github.com/MinHyeok-lee1/TIL/blob/main/2025/07/03-Template.md)
 - [Username Repository](https://github.com/MinHyeok-lee1/TIL/blob/main/2025/07/02-UsernameRepository.md)
-- [TIL](https://github.com/MinHyeok-lee1/TIL/blob/main/2025/07/01-TIL.md)
 <!-- TIL-END -->
 
 ---
