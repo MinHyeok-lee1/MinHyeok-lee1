@@ -20,11 +20,11 @@ On my GitHub you’ll find:
 ## 📖 Recent TILs
 
 <!-- TIL-START -->
+- [빌드 시스템](https://github.com/MinHyeok-lee1/TIL/blob/main/2025/07/09-buildSystem.md)
 - [YAML, YML 파일이란 무엇인가? 왜 사용하는가?](https://github.com/MinHyeok-lee1/TIL/blob/main/2025/07/08-yaml.md)
 - [삼성인터넷 “어둡게 보기” 옵션이 웹 색상·Lottie에 미치는 영향](https://github.com/MinHyeok-lee1/TIL/blob/main/2025/07/07-issueSamsungInternet.md)
 - [bash에서 ssh-agent, ssh-add: 왜 source로 실행해야 할까?](https://github.com/MinHyeok-lee1/TIL/blob/main/2025/07/06-issueBashSsh.md)
 - [프록시(Proxy)](https://github.com/MinHyeok-lee1/TIL/blob/main/2025/07/05-proxy.md)
-- [GitHub Actions](https://github.com/MinHyeok-lee1/TIL/blob/main/2025/07/04-GitHubActions.md)
 <!-- TIL-END -->
 
 ---
