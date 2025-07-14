@@ -20,11 +20,11 @@ On my GitHub you’ll find:
 ## 📖 Recent TILs
 
 <!-- TIL-START -->
+- [CMake + Ninja로 STM32 프로젝트 빌드 성능 비교](https://github.com/MinHyeok-lee1/TIL/blob/main/2025/07/14-testNinja.md)
 - [임베디드 빌드 시스템 (Makefile, CMake, Ninja)](https://github.com/MinHyeok-lee1/TIL/blob/main/2025/07/13-embeddedBuild.md)
 - [CMake와 Makefile의 차이점과 선택 기준](https://github.com/MinHyeok-lee1/TIL/blob/main/2025/07/12-CmakeMakefile.md)
 - [CMake란?](https://github.com/MinHyeok-lee1/TIL/blob/main/2025/07/11-CMake.md)
 - [Makefile란?](https://github.com/MinHyeok-lee1/TIL/blob/main/2025/07/10-Makefile.md)
-- [빌드 시스템](https://github.com/MinHyeok-lee1/TIL/blob/main/2025/07/09-buildSystem.md)
 <!-- TIL-END -->
 
 ---
