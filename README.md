@@ -20,11 +20,11 @@ On my GitHub you’ll find:
 ## 📖 Recent TILs
 
 <!-- TIL-START -->
+- [ROS2 기반 내비게이션 시스템 개요](https://github.com/MinHyeok-lee1/TIL/blob/main/2025/07/21-Ros2Nav2.md)
 - [ROS2 버전 비교: Humble vs Jazzy, 어떤 걸 선택할까?](https://github.com/MinHyeok-lee1/TIL/blob/main/2025/07/20-RosVersion.md)
 - [ROS2 이론 정리: 구조와 핵심 개념](https://github.com/MinHyeok-lee1/TIL/blob/main/2025/07/19-Ros.md)
 - [LiDAR 센서 이론 정리](https://github.com/MinHyeok-lee1/TIL/blob/main/2025/07/18-LiDAR.md)
 - [SLAM(Simultaneous Localization and Mapping) 이론 정리](https://github.com/MinHyeok-lee1/TIL/blob/main/2025/07/17-slam.md)
-- [PlatformIO에서 STM32 + C++17 코드 빌드시 발생하는 GCC 이슈 정리](https://github.com/MinHyeok-lee1/TIL/blob/main/2025/07/16-issuePlatformIOCpp.md)
 <!-- TIL-END -->
 
 ---
