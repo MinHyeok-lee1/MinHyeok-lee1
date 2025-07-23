@@ -20,11 +20,11 @@ On my GitHub you’ll find:
 ## 📖 Recent TILs
 
 <!-- TIL-START -->
+- [💻 듀얼부팅 실습기](https://github.com/MinHyeok-lee1/TIL/blob/main/2025/07/23-issueDualBoot.md)
+- [듀얼부팅 개념과 실습 가이드: Windows + Ubuntu](https://github.com/MinHyeok-lee1/TIL/blob/main/2025/07/22-DualBoot.md)
 - [ROS2 기반 내비게이션 시스템 개요](https://github.com/MinHyeok-lee1/TIL/blob/main/2025/07/21-Ros2Nav2.md)
 - [ROS2 버전 비교: Humble vs Jazzy, 어떤 걸 선택할까?](https://github.com/MinHyeok-lee1/TIL/blob/main/2025/07/20-RosVersion.md)
 - [ROS2 이론 정리: 구조와 핵심 개념](https://github.com/MinHyeok-lee1/TIL/blob/main/2025/07/19-Ros.md)
-- [LiDAR 센서 이론 정리](https://github.com/MinHyeok-lee1/TIL/blob/main/2025/07/18-LiDAR.md)
-- [SLAM(Simultaneous Localization and Mapping) 이론 정리](https://github.com/MinHyeok-lee1/TIL/blob/main/2025/07/17-slam.md)
 <!-- TIL-END -->
 
 ---
