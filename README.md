@@ -20,11 +20,11 @@ On my GitHub you’ll find:
 ## 📖 Recent TILs
 
 <!-- TIL-START -->
+- [🧊 Ubuntu 종료 후 발열 문제 해결기](https://github.com/MinHyeok-lee1/TIL/blob/main/2025/07/27-issueUbuntuHeating.md)
 - [Ubuntu 24.04.2 기반 ROS 2 + Zsh 생산성 향상 개발환경 구성 가이드](https://github.com/MinHyeok-lee1/TIL/blob/main/2025/07/26-ubuntuDevTools.md)
 - [🛠️ Ubuntu 24.04 수동 설치 구축기](https://github.com/MinHyeok-lee1/TIL/blob/main/2025/07/25-issueUbuntuInstall.md)
 - [Ubuntu에서 한글 입력이 안 될 때 ibus 설정으로 해결하기](https://github.com/MinHyeok-lee1/TIL/blob/main/2025/07/24-issueUbuntuHangul.md)
 - [💻 듀얼부팅 실습기](https://github.com/MinHyeok-lee1/TIL/blob/main/2025/07/23-issueDualBoot.md)
-- [듀얼부팅 개념과 실습 가이드: Windows + Ubuntu](https://github.com/MinHyeok-lee1/TIL/blob/main/2025/07/22-DualBoot.md)
 <!-- TIL-END -->
 
 ---
