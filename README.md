@@ -20,11 +20,11 @@ On my GitHub you’ll find:
 ## 📖 Recent TILs
 
 <!-- TIL-START -->
-- [🛠️ ROS 2 Jazzy + Gazebo 명령어 정리](https://github.com/MinHyeok-lee1/TIL/blob/main/2025/08/01-Ros2JazzyGazebo.md)
+- [TurtleBot4 시뮬레이션 LiDAR 시각화 오류 해결](https://github.com/MinHyeok-lee1/TIL/blob/main/2025/08/03-issueTurtleBot4LiDAR.md)
+- [🛠️ ROS2 개발용 VSCode 확장 프로그램](https://github.com/MinHyeok-lee1/TIL/blob/main/2025/08/02-Ros2VscExtensions.md)
+- [🛠️ ROS2 Jazzy + Gazebo 명령어 정리](https://github.com/MinHyeok-lee1/TIL/blob/main/2025/08/01-Ros2JazzyGazebo.md)
 - [🔌 듀얼부팅 환경에서 종료 방식 처리 정리](https://github.com/MinHyeok-lee1/TIL/blob/main/2025/07/28-issueUbuntuPowerOff.md)
 - [🧊 Ubuntu 종료 후 발열 문제 해결기](https://github.com/MinHyeok-lee1/TIL/blob/main/2025/07/27-issueUbuntuHeating.md)
-- [Ubuntu 24.04.2 기반 ROS 2 + Zsh 생산성 향상 개발환경 구성 가이드](https://github.com/MinHyeok-lee1/TIL/blob/main/2025/07/26-ubuntuDevTools.md)
-- [🛠️ Ubuntu 24.04 수동 설치 구축기](https://github.com/MinHyeok-lee1/TIL/blob/main/2025/07/25-issueUbuntuInstall.md)
 <!-- TIL-END -->
 
 ---
