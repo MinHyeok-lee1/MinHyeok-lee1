@@ -20,11 +20,11 @@ On my GitHub you’ll find:
 ## 📖 Recent TILs
 
 <!-- TIL-START -->
+- [GIMP 활용 가이드 (ROS2 Nav2 시각화)](https://github.com/MinHyeok-lee1/TIL/blob/main/2025/08/05-GIMP.md)
 - [Cursor AI Editor 설치 및 활용 가이드](https://github.com/MinHyeok-lee1/TIL/blob/main/2025/08/04-cursor.md)
 - [TurtleBot4 시뮬레이션 LiDAR 시각화 오류 해결](https://github.com/MinHyeok-lee1/TIL/blob/main/2025/08/03-issueTurtleBot4LiDAR.md)
 - [🛠️ ROS2 개발용 VSCode 확장 프로그램](https://github.com/MinHyeok-lee1/TIL/blob/main/2025/08/02-Ros2VscExtensions.md)
 - [🛠️ ROS2 Jazzy + Gazebo 명령어 정리](https://github.com/MinHyeok-lee1/TIL/blob/main/2025/08/01-Ros2JazzyGazebo.md)
-- [🔌 듀얼부팅 환경에서 종료 방식 처리 정리](https://github.com/MinHyeok-lee1/TIL/blob/main/2025/07/28-issueUbuntuPowerOff.md)
 <!-- TIL-END -->
 
 ---
