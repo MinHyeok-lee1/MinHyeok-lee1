@@ -20,11 +20,11 @@ On my GitHub you’ll find:
 ## 📖 Recent TILs
 
 <!-- TIL-START -->
+- [📡 UWB 거리 측정 모드 정리](https://github.com/MinHyeok-lee1/TIL/blob/main/2025/08/09-UwbMode.md)
 - [UWB 전송 전력 모드(DWTTXRF) 정리](https://github.com/MinHyeok-lee1/TIL/blob/main/2025/08/08-DwtTxPowerModes.md)
 - [Decawave DW1000 / DW3000 시리즈 비교 정리](https://github.com/MinHyeok-lee1/TIL/blob/main/2025/08/07-DecawaveDwSeries.md)
 - [📡 UWB (Ultra-Wideband) 기술 정리](https://github.com/MinHyeok-lee1/TIL/blob/main/2025/08/06-UWB.md)
 - [GIMP 활용 가이드 (ROS2 Nav2 시각화)](https://github.com/MinHyeok-lee1/TIL/blob/main/2025/08/05-GIMP.md)
-- [Cursor AI Editor 설치 및 활용 가이드](https://github.com/MinHyeok-lee1/TIL/blob/main/2025/08/04-cursor.md)
 <!-- TIL-END -->
 
 ---
